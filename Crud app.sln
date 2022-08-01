@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanko", "WebApplication1\Sanko.csproj", "{867B7E56-0E6C-4980-98C3-5455B020453F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867B7E56-0E6C-4980-98C3-5455B020453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867B7E56-0E6C-4980-98C3-5455B020453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867B7E56-0E6C-4980-98C3-5455B020453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867B7E56-0E6C-4980-98C3-5455B020453F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338391A1-50A0-4668-BCD8-691EC5BED36A}
+	EndGlobalSection
+EndGlobal
